@@ -10,4 +10,4 @@ I build evidence-driven security tools, including:
 
 **Core stack:** Python, FastAPI, PostgreSQL, Neo4j, Sysmon, Wazuh, Docker, and MITRE ATT&CK.
 
-[Project portfolio and demos](https://samuel-harting-projects.samharting.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/sam-harting-83932b329)
+[Project portfolio and demos](https://samuel-harting-projects.samharting.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/samuel-harting-83932b329)
