@@ -1,13 +1,18 @@
 # Samuel Harting
 
-Cybersecurity B.S. candidate at the University of Tampa (expected May 2028) focused on security engineering and detection engineering.
+Cybersecurity student at the University of Tampa (B.S., expected May 2028) and CompTIA Security+ certified. I like sales, I build with AI, and I study security.
 
-I build evidence-driven security tools, including:
+### What I do
 
-- **Northstar** - a governed cyber-operations platform connecting security evidence, attack paths, cases, approvals, and audit history.
-- **Phantom Blue** - an offline Python CLI for normalizing SIEM/EDR exports, mapping MITRE ATT&CK candidates, and generating reviewable Sigma-style drafts.
-- **Purple-Team Detection Validation Lab** - an isolated Sysmon and Wazuh environment for ATT&CK-mapped telemetry and detection validation.
+- **Sales and small business.** Started a window cleaning business in high school and now run a mobile car detailing business in Tampa. Door to door, cold calls, Google and Meta ads.
+- **Building with AI.** I use Claude Code and Codex to ship real tools: a free trading journal used by 1,000+ traders, a Discord community of 1,400+, and Alto, an AI agent for students (in development).
+- **Security.** IT and cybersecurity intern at a community bank, plus hands-on lab work with Windows logging and detection.
 
-**Core stack:** Python, FastAPI, PostgreSQL, Neo4j, Sysmon, Wazuh, Docker, and MITRE ATT&CK.
+### Projects here
 
-[Project portfolio and demos](https://samuel-harting-projects.samharting.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/samuel-harting-83932b329)
+- **Purple-Team Detection Lab** - a Windows lab that tests whether security alerts actually fire.
+- **Phantom Blue** - an offline tool that turns security logs into draft detection rules.
+- **Northstar** - a security investigation platform demo.
+- **Poker** - a live multiplayer Texas Hold'em table.
+
+[Portfolio](https://sam-cyber-portfolio.vercel.app) · [Trading tools side business](https://bandz-case-study.vercel.app) · [LinkedIn](https://www.linkedin.com/in/samuel-harting-83932b329)
